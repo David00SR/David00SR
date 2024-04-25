@@ -1,6 +1,7 @@
 Olá eu sou o David ribeiro 🖐🏼
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davidsribeiro)
+)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://sujeitoprogramador.com)
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=David00SR&show_icons=true&theme=dracula)
