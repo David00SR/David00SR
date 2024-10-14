@@ -1,10 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <h1>Hi, my name is Jeferson and this is my Github 😃</h1>
+  <h1>Hi, my name is Davi S.Ribeiro and this is my Github 😃</h1>
   <p>
-    I'm a biomedicine student, passionate about Thanatology, experiencing new opportunities with programming<br>
-    My biggest interest is in web programming, focused on frontend development
+    I’m David S. Ribeiro, a tech enthusiast focused on programming and networks. With hands-on experience in the internet service provider industry, I have a strong understanding of infrastructure and connectivity needs. Currently, I'm expanding my knowledge in front-end development while diving into network-related programming languages. I aim to develop solutions that combine efficient code with robust network performance.
   </p>
 
   !Thanatodev's Stats
