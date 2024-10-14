@@ -9,7 +9,8 @@
   <h2>🌐 Find me online</h2>
   <p>
     <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 40px; width: auto;"></a>
-    <a href="https://twitter.com/seu-perfil-twitter" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 40px; width: auto;"></a>
+    <a href="https://www.instagram.com/seu-perfil-instagram" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="height: 40px; width: auto;"></a>
+    <a href="https://wa.me/seu-numero-watz" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" style="height: 40px; width: auto;"></a>
   </p>
 
   <h2>🛠️ Technologies & Tools</h2>
