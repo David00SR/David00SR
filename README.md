@@ -1,34 +1,29 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# 👋 Olá! Eu sou o David S. Ribeiro
 
-<div align="center">
-  <h1>Hi, my name is David S. Ribeiro and welcome to my GitHub! 😃</h1>
-  <p>
-    I’m David S. Ribeiro, a tech enthusiast focused on programming and networks. With hands-on experience in the internet service provider industry, I have a strong understanding of infrastructure and connectivity needs. Currently, I'm expanding my knowledge in front-end development while diving into network-related programming languages. I aim to develop solutions that combine efficient code with robust network performance.
-  </p>
-  
-  <h2>🛠️ Technologies & Tools</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; width: auto;">
-  </div>
+Sou um entusiasta de tecnologia, apaixonado por redes de computadores, desenvolvimento e tudo que envolve resolver problemas de forma criativa e eficiente.
 
-  <h2>📈 GitHub Stats</h2>
-<div style="display: flex; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=David00SR&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 400px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David00SR&layout=compact&theme=radical" alt="Top Languages" style="width: 400px;">
-</div>
+🎓 Atualmente estudo **Redes de Computadores**  
+💻 Estou me aprofundando em **Python** e **Java**, com foco em automação, infraestrutura e DevOps  
+🌐 Tenho interesse em segurança, infraestrutura de redes e desenvolvimento de soluções para ISPs  
+🚀 Estou sempre aprendendo algo novo, seja por cursos, faculdade ou projetos pessoais
 
-  <h2>🚀 Current Focus</h2>
-  <p>
-    Currently, I'm learning front-end development with React and expanding my knowledge in network programming.
-  </p>
-  
-  <h2>💡 Fun fact</h2>
-  <p>I enjoy solving complex problems by combining efficient programming with optimized network solutions.</p>
-</div>
+## 🧰 Tecnologias que estou aprendendo ou já uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David00SR&show_icons=true&theme=radical)
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+
+> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
+
