@@ -23,7 +23,7 @@ Sou um entusiasta de tecnologia, apaixonado por redes de computadores, desenvolv
 
 ### 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsribeiro/)
 
 > “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
 
