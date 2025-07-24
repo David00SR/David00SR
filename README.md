@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de Redes de Computadores
 - 🔧 Entusiasta de redes, DevOps, automação e boas práticas
-- 🧠 Sempre aprendendo algo novo: Python, C#, Linux, Docker...
+- 🧠 Sempre aprendendo algo novo: Python, Linux, Docker...
 - 💬 Gosto de entender como as coisas funcionam por trás da rede
 
 ---
