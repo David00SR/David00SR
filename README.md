@@ -43,12 +43,6 @@
 
 ---
 
-### 📫 Onde me encontrar
-
-- GitHub: [@David00SR](https://github.com/David00SR)  
-
----
-
 <p align="center">
   <em>“Sempre em busca de aprender um pouco mais a cada dia.”</em>
 </p>
