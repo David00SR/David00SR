@@ -27,7 +27,7 @@
 
 ### 🛠️ Ferramentas
 
-![Docker]([https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/docker/pulls/:user/:repo))
+![Docker]([https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white])
 
 ---
 
