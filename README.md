@@ -1,33 +1,37 @@
 <h1 align="center">David S. Ribeiro</h1>
 
 <p align="center">
-  👨‍💻 Estudante de Redes de Computadores | Explorando programação e automação
+  👨‍💻 Desenvolvedor focado em automações | TypeScript • Node.js • n8n • Docker
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Redes de Computadores  
-- 💡 Interesses em programação, automação e DevOps  
-- 📚 Sempre aprendendo: Python, Go, JavaScript, HTML, CSS  
-- 🔎 Curioso sobre como a tecnologia conecta tudo  
+- 💻 Desenvolvedor com foco em automações e integrações  
+- ⚙️ Criação de fluxos automatizados usando n8n  
+- 🐳 Experiência com Docker e ambientes em VM/VPS  
+- 🌐 Interesse em back-end, infraestrutura e DevOps  
+- 🔎 Gosto de entender como sistemas, redes e automações se conectam  
 
 ---
 
-### 🤖 Linguagens
+### 🤖 Linguagens & Tecnologias
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas & Infraestrutura
 
-
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VPS](https://img.shields.io/badge/-VPS%20%2F%20VM-000000?style=flat&logo=serverfault&logoColor=white)
 
 ---
 
@@ -40,15 +44,16 @@
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Atualmente trabalhando / estudando
 
-- Automação com Python e n8n  
-- Fundamentos de Go  
-- Prática com JavaScript, HTML e CSS  
-- Faculdade de Redes de Computadores  
+- Desenvolvimento de automações com n8n  
+- Integrações usando Node.js e TypeScript  
+- Deploy e gerenciamento de aplicações em Docker  
+- Ambientes em VPS e máquinas virtuais  
+- Boas práticas de back-end e infraestrutura  
 
 ---
 
 <p align="center">
-  <em>“Sempre em busca de aprender um pouco mais a cada dia.”</em>
+  <em>“Automatizando processos e conectando sistemas de forma inteligente.”</em>
 </p>
