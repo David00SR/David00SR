@@ -1,18 +1,19 @@
 <h1 align="center">David S. Ribeiro</h1>
 
 <p align="center">
-  👨‍💻 Desenvolvedor focado em automações | TypeScript • Node.js • n8n • Docker
+  👨‍💻 Desenvolvedor focado em automações e mobile | TypeScript • Node.js • Flutter • n8n • Docker
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor com foco em automações e integrações  
+- 💻 Desenvolvedor com foco em automações, integrações e mobile  
+- 📱 Desenvolvimento de aplicativos com Flutter  
 - ⚙️ Criação de fluxos automatizados usando n8n  
 - 🐳 Experiência com Docker e ambientes em VM/VPS  
-- 🌐 Interesse em back-end, infraestrutura e DevOps  
-- 🔎 Gosto de entender como sistemas, redes e automações se conectam  
+- 🌐 Interesse em back-end, infraestrutura, mobile e DevOps  
+- 🔎 Gosto de entender como sistemas, redes, apps e automações se conectam  
 
 ---
 
@@ -22,6 +23,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
 
@@ -48,12 +50,13 @@
 
 - Desenvolvimento de automações com n8n  
 - Integrações usando Node.js e TypeScript  
+- Desenvolvimento mobile com Flutter  
 - Deploy e gerenciamento de aplicações em Docker  
 - Ambientes em VPS e máquinas virtuais  
-- Boas práticas de back-end e infraestrutura  
+- Boas práticas de back-end, mobile e infraestrutura  
 
 ---
 
 <p align="center">
-  <em>“Automatizando processos e conectando sistemas de forma inteligente.”</em>
+  <em>“Automatizando processos, criando apps e conectando sistemas de forma inteligente.”</em>
 </p>
