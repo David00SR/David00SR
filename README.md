@@ -1,60 +1,81 @@
-# 👋 Bem-vindo!
- 
-Sou um desenvolvedor full-stack apaixonado por criar soluções robustas e escaláveis. Trabalho com diferentes tecnologias para entregar projetos de alta qualidade.
- 
----
- 
-## 🛠️ Stack Tecnológico
- 
-### Frontend
-- **JavaScript** | **HTML** | **CSS**
-- Experiência em desenvolvimento web responsivo e interativo
-### Backend
-- **Java**
-- **Spring Framework** - aplicações robustas e seguras
-### Banco de Dados
-- **MySQL** - relacional e otimizado
-- **PostgreSQL** - avançado com suporte a tipos complexos
-### Automação & DevOps
-- **n8n** - automação de workflows
-- **Docker** - containerização e deployment
----
- 
-## 💡 O Que Faço
- 
-Desenvolvo aplicações full-stack combinando front-end moderno com back-end robusto. Especialista em integrar diferentes sistemas através de automação e orquestração de processos.
- 
----
- 
-## 📊 Experiência
- 
-- ✅ Aplicações web com JavaScript vanilla e frameworks modernos
-- ✅ APIs REST e serviços backend com Spring
-- ✅ Design e otimização de banco de dados relacionais
-- ✅ Automação de processos com n8n
-- ✅ Containerização e deploy com Docker
----
- 
-## 🚀 Projetos em Destaque
- 
-<!-- Adicione seus principais projetos aqui -->
-- [Seu Projeto 1](#) - descrição breve
-- [Seu Projeto 2](#) - descrição breve
----
- 
-## 📫 Como me Encontrar
- 
-- 💻 [Seu Portfolio](#)
-- 🐙 [GitHub](https://github.com/seu-usuario)
-- 💼 [LinkedIn](#)
-- 📧 seu-email@exemplo.com
----
- 
-## 📈 Estatísticas
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
- 
----
- 
-*Sempre buscando aprender e evoluir com as melhores práticas de desenvolvimento.*
- 
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
+  <h3>Conecte-se comigo:</h3>
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/seu-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://dev.to/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=seu-usuario&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=seu-usuario&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+## 💡 Sobre Mim
+
+Desenvolvedor Full-Stack apaixonado por criar soluções robustas e escaláveis. Especializado em **Java/Spring** no backend e **JavaScript/HTML/CSS** no frontend, com experiência em automação de processos e containerização.
+
+### 🛠️ Stack Principal
+
+- **Frontend:** JavaScript, HTML, CSS
+- **Backend:** Java, Spring Framework
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Automação & DevOps:** n8n, Docker
+
+### ✨ Experiências
+
+- ✅ Desenvolvimento de aplicações web full-stack
+- ✅ APIs REST com Spring Framework
+- ✅ Design e otimização de bancos de dados relacionais
+- ✅ Automação de workflows com n8n
+- ✅ Containerização e deployment com Docker
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph.svg"> 
+</picture>
+
+###
+
+<div align="center">
+  <strong>Sempre buscando aprender e evoluir com as melhores práticas de desenvolvimento! 🚀</strong>
+</div>
