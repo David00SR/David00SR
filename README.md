@@ -31,10 +31,6 @@
   <a href="https://www.instagram.com/davidsr.oficial" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
   </a>
-  <img width="12" />
-  <a href="https://twitter.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" />
-  </a>
 </div>
 
 ###
