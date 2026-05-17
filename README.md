@@ -24,11 +24,16 @@
 
 <div align="center">
   <h3>Conecte-se comigo:</h3>
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/SEU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img width="12" />
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://twitter.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" />
   </a>
 </div>
 
