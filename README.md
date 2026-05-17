@@ -39,7 +39,7 @@
 
 ## 💡 Sobre Mim
 
-Desenvolvedor Full-Stack apaixonado por criar soluções robustas e escaláveis. Especializado em **Java/Spring** no backend e **JavaScript/HTML/CSS** no frontend, com experiência em automação de processos e containerização.
+Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Especializado em **Java/Spring** no backend e **JavaScript/HTML/CSS** no frontend, com experiência em automação de processos e containerização.
 
 ### 🛠️ Stack Principal
 
